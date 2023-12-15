@@ -1,2 +1,3 @@
 # store
-This is answer for backend 1 task
+Jawaban untuk task backend #1
+Menggunakan Spring boot java
